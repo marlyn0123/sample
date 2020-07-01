@@ -1,0 +1,16 @@
+.body{
+    background-color: #ffffff;
+    
+    margin: 20px;
+    padding: 20px;
+    color: rgb(241, 41, 41);
+    width: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.uru{
+    width: 50%;
+    display: inline-block;
+    
+}
